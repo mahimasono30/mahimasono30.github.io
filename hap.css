@@ -1,0 +1,41 @@
+div{
+
+	text-align: center;
+}
+.para{
+
+		color: #0080ff;
+	margin-left: 150px;
+	text-align: left;
+	
+
+}
+
+
+h2 {
+
+	color: #008ae6;
+	margin-left: 400px;
+	text-align: center;
+	font-family:"Lucida Console"; 
+	
+	
+}
+h3{
+
+	color:#4dff88;
+	margin-left: 400px;
+	text-align: center;
+	 font-family: "monospace";
+	 font-size: 3.5vw;
+	 
+}
+p{
+
+	color: #0080ff;
+	margin-left: 400px;
+	text-align: center;
+	line-height: 35px;
+	font-size: 150%;
+
+}
